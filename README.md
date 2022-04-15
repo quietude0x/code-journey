@@ -6,6 +6,7 @@
 - [ ] solidity
 - [ ] cairo
 - [ ] rust
+- [ ] go
 ##### 🌍 web3 libs
 - [ ] ethers.js
 - [ ] web3.js
