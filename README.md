@@ -11,6 +11,7 @@
 - [ ] ethers.js
 - [ ] web3.js
 - [ ] wagmi
+- [ ] rainbowkit
 ##### 💥 react & co.
 - [ ] react
 - [ ] react-native
